@@ -1,0 +1,21 @@
+{
+  "name": "Project Navigator",
+  "company": "Custom Dev",
+  "logoUrl": "",
+  "organization": "Custom Dev",
+  "packageUrl": "",
+  "supportUrl": "",
+  "description": "Navigate through project records using Previous and Next buttons.",
+  "devMode": true,
+  "components": [
+    {
+      "id": "project_navigator",
+      "name": "Project Navigator",
+      "iconUrl": "",
+      "description": "Previous / Next navigation",
+      "resource": {
+        "js": "index.js"
+      }
+    }
+  ]
+}
